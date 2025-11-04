@@ -4,8 +4,9 @@ Enable AI to perform human operations on Windows using natural language commands
 首先感谢一下提供图片服务器的老哥，这个是老哥的github， https://github.com/benjaminwan/OcrLiteOnnx
 
 
-
-
+I've made some changes; the new version can be downloaded from this address.
+我已经做了一些改动，新的在这个地址下载
+https://drive.google.com/file/d/1oZHTH-IxX1dFGxg0IYU68U4dPeuzABos/view?usp=sharing
 
 
 
